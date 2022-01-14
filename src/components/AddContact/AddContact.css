@@ -1,0 +1,9 @@
+.add-contact{
+    position: absolute;
+    padding: 15px;
+    background-color: lightgray;
+    border: 1px solid blue;
+    text-align: center;
+    margin: auto;
+    right: 200px;
+}
